@@ -1,5 +1,3 @@
-# Hamza-Ghulam-Nabi
-
 ## Slam, I am [Hamza-Ghulam-Nabi!](https://www.facebook.com/hamzaghulamnabirizvi) <img src=“https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif” height=“25px” width=“25px”>
 
 <div align=“center”>
@@ -23,4 +21,3 @@
     <img src=“https://img.shields.io/badge/Facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&&color=darkbluelogoColor=white” />
 </a>
 </div>
-<br>
