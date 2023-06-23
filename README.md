@@ -28,7 +28,7 @@
 - :telescope: I am currently working on an Ecommerce_App.<br/>
 - :seedling: I am currently looking to work with a company<br/>
 - :speech_balloon: Ask me about Flutter,Firebase, APIs.<br/>
-- :mailbox: How to reach me: WhatsApp : wa.link/k0unln
+- :mailbox: How to reach me: WhatsApp : https://wa.me/923040247308
 ### Languages and Tools:
 <code><img height=“35” title=“Java” src=“https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667”></code>
 <code><img height=“35" title=“Kotlin” src=“https://camo.githubusercontent.com/28f57c54a36d9362f6f20f6a011471a4b0ffc6ad1a6f7b74ced17e922f118fbd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f746c696e2e737667”></code>
@@ -51,15 +51,14 @@
 <br/>
 <summary>:memo: My GitHub Stats</summary>
 <br>
-[![Bilal’s github stats](https://github-readme-stats.vercel.app/api?username=bilalsaeedjh&theme=gotham)](https://github.com/bilalsaeedjh/github-readme-stats)
+[![Hamza’s github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&theme=gotham)](https://github.com/hamza-rizvii/github-readme-stats)
 Open Source Contributor from <b>Pakistan<b> :green_heart:
-[upwork]: https://www.upwork.com/freelancers/~01d4c15b1c11989d00
+[upwork]: https://www.upwork.com/freelancers/~019173f97e268061d2
 FacebookFacebook
-Log into Facebook
 Log into Facebook to start sharing and connecting with your friends, family, and people you know.
 (150 kB)
 https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 
 Stack OverflowStack Overflow
-User Bilal Saeed
+User Hamza Ghulam Nabi
 Stack Overflow | The World’s Largest Online Community for Developers
