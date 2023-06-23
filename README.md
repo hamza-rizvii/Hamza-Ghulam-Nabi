@@ -72,15 +72,16 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&theme=gotham)](https://github.com/hamza-rizvii/github-readme-stats)
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&theme=gotham)](https://github.com/hamza-rizvii/github-readme-stats)
 
 
 
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 
-
-[upwork]: https://www.upwork.com/freelancers/~019173f97e268061d2
+<a href="https://stackoverflow.com/users/22118365/hamza-ghulam-nabi">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
 
 
 
