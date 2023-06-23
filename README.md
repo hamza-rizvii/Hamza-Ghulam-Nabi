@@ -79,9 +79,6 @@
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 
-<a href="https://stackoverflow.com/users/22118365/hamza-ghulam-nabi">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
 
 
 
