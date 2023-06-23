@@ -4,24 +4,24 @@
 <div align="center">
 <p align="center">Let's connect!</p>
     
-<a href="https://stackoverflow.com/users/13283931">
+<a href="https://stackoverflow.com/users/22118365/hamza-ghulam-nabi">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-<a href="https://www.upwork.com/freelancers/~01d4c15b1c11989d00">
+<a href="https://www.upwork.com/freelancers/~019173f97e268061d2">
     <img src="https://img.shields.io/badge/Upwork-%230077B5.svg?&style=for-the-badge&logo=fiverr&color=darkgreen&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/bilalsaeedjh/">
+<a href="https://www.instagram.com/hamza__rizvi/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/bilal-saeed-417644234/">
+<a href="https://www.linkedin.com/in/hamza-ghulam-nabi-0078a820b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://wa.link/7cz20o">
+<a href="https://wa.me/923040247308">
     <img src="https://img.shields.io/badge/Whatsapp-%230077B5.svg?&style=for-the-badge&logo=whatsapp&color=darkgreen&logoColor=white" />
 </a>
-    <a href="https://web.facebook.com/bilal.saeedddd/">
+    <a href="https://www.facebook.com/hamzaghulamnabirizvi">
     <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&&color=darkbluelogoColor=white" />
 </a>
 
@@ -72,7 +72,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=bilalsaeedjh&theme=gotham)](https://github.com/bilalsaeedjh/github-readme-stats)
+[![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&theme=gotham)](https://github.com/hamza-rizvii/github-readme-stats)
 
 
 
@@ -80,7 +80,7 @@
 Open Source Contributor from <b>Pakistan<b> 💚 
 
 
-[upwork]: https://www.upwork.com/freelancers/~01d4c15b1c11989d00
+[upwork]: https://www.upwork.com/freelancers/~019173f97e268061d2
 
 
 
