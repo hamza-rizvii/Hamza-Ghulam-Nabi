@@ -40,7 +40,7 @@
 - 🔭 I am currently working on an Ecommerce_App.<br/>
 - 🌱 I am currently looking to work with a company<br/>
 - 💬 Ask me about Flutter,Firebase, APIs.<br/>
-- 📫 How to reach me: WhatsApp : wa.link/k0unln
+- 📫 How to reach me: WhatsApp : wa.me/923040247308
 
 
 
