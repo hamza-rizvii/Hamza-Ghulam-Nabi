@@ -58,9 +58,9 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&theme=gotham)]
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&show_icons=true&theme=dark)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-rizvii&hide_progress=true)
+
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 
