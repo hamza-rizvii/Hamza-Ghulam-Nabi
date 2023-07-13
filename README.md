@@ -38,15 +38,15 @@
 
 ### Languages and Tools:
 
-<code><img height="54" title="Dart" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/dart.png"></code> 
+<code><img height="54" title="Dart" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/dart.png"></code>
 <code><img height="54" title="Flutter" src="https://camo.githubusercontent.com/750365ec8e10a2a4075ffb09fd644c3176c98638a7c45a79a8a40366a9d64f3a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c75747465722e737667"></code>
 <code><img height="54" title="Java" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667"></code>
 <code><img height="54" title="Kotlin" src="https://camo.githubusercontent.com/28f57c54a36d9362f6f20f6a011471a4b0ffc6ad1a6f7b74ced17e922f118fbd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f746c696e2e737667"></code> 
 <code><img height="54" title="Android Studio" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/android-studio.png"></code> 
 <code><img height="54" title="Xcode" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/xcode.png"></code> 
+<br>
 <code><img height="54" title="Git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></code> 
 <code><img height="54" title="Github" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></code> 
-<code><img height="54" title="Terminal" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/terminal.png"></code> 
 <code><img height="54" title="Android" src="https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667"></code> 
 <code><img height="54" title="Mac OS" src="https://camo.githubusercontent.com/73bd7cb04728a3ba23bd6aa6740f7c8b585df12db44f4492ec46fc8e30b2115f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61636f732e737667"></code> 
 <code><img height="54" title="Window" src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"></code> 
