@@ -68,7 +68,7 @@ I have experience collaborating with cross-functional teams and communicating co
 <br>
 
 
-### Let's connect!
+### Let's get connected!
 <a href="https://www.linkedin.com/in/hamza-ghulam-nabi-0078a820b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
