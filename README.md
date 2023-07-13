@@ -30,7 +30,9 @@ I have experience collaborating with cross-functional teams and communicating co
 ✔ Android Studio
 <br>
 ✔ Flutter Mobile, Web, Windows, Mac
-
+<br>
+<br>
+<br>
 
 ## Languages and Tools:
 <code><img height="54" title="Dart" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/dart.png"></code>
@@ -45,6 +47,9 @@ I have experience collaborating with cross-functional teams and communicating co
 <code><img height="54" title="Mac OS" src="https://camo.githubusercontent.com/73bd7cb04728a3ba23bd6aa6740f7c8b585df12db44f4492ec46fc8e30b2115f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61636f732e737667"></code> 
 <code><img height="54" title="Window" src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"></code> 
 <code><img height="54" title="Ubuntu" src="https://camo.githubusercontent.com/c100a44b540f6bcea3f7bae169d5f75b44e8994a83deeaf2e9b7e7f9523c8bd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7562756e74752e737667"></code> 
+<br>
+<br>
+<br>
 
 ##  Hybrid Platform Developer & Motivational Video Creator
 <img align="right" alt="GIF" src="code.gif" width="380" height="230" />
@@ -54,7 +59,7 @@ I have experience collaborating with cross-functional teams and communicating co
 - 📫 How to reach me : <a href="https://wa.me/923040247308">WhatsApp</a>
 <br>
 <br>
-
+<br>
 
 ## 📝 My GitHub Stats
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&show_icons=true&theme=dark)]
