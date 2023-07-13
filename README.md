@@ -37,7 +37,6 @@ I have experience collaborating with cross-functional teams and communicating co
 <code><img height="54" title="Kotlin" src="https://camo.githubusercontent.com/28f57c54a36d9362f6f20f6a011471a4b0ffc6ad1a6f7b74ced17e922f118fbd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f746c696e2e737667"></code> 
 <code><img height="54" title="Android Studio" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/android-studio.png"></code> 
 <code><img height="54" title="Xcode" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/xcode.png"></code> 
-
 <code><img height="54" title="Git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></code> 
 <code><img height="54" title="Github" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></code> 
 <code><img height="54" title="Android" src="https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667"></code> 
