@@ -31,9 +31,8 @@ I have experience collaborating with cross-functional teams and communicating co
 <br>
 ✔ Flutter Mobile, Web, Windows, Mac
 
-<br>
-### Languages and Tools:
 
+### Languages and Tools:
 <code><img height="54" title="Dart" src="https://raw.githubusercontent.com/hiennguyen92/hiennguyen92/main/dart.png"></code>
 <code><img height="54" title="Flutter" src="https://camo.githubusercontent.com/750365ec8e10a2a4075ffb09fd644c3176c98638a7c45a79a8a40366a9d64f3a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c75747465722e737667"></code>
 <code><img height="54" title="Java" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667"></code>
@@ -53,10 +52,11 @@ I have experience collaborating with cross-functional teams and communicating co
 - 🌱 I am currently looking to work with a company<br/>
 - 💬 Ask me about Flutter,Firebase, APIs.<br/>
 - 📫 How to reach me : <a href="https://wa.me/923040247308">WhatsApp</a>
+<br>
+<br>
 
 
 ### 📝 My GitHub Stats
-
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&show_icons=true&theme=dark)]
 <br>
 <br>
