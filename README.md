@@ -60,8 +60,7 @@
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&theme=gotham)]
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-rizvii&hide_progress=true)
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 
