@@ -44,6 +44,15 @@ I have experience collaborating with cross-functional teams and communicating co
 <code><img height="54" title="Window" src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"></code> 
 <code><img height="54" title="Ubuntu" src="https://camo.githubusercontent.com/c100a44b540f6bcea3f7bae169d5f75b44e8994a83deeaf2e9b7e7f9523c8bd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7562756e74752e737667"></code> 
 
+###  Hybrid Platform Developer & Motivational Video Creator
+
+<img align="right" alt="GIF" src="code.gif" width="380" height="230" />
+
+- 🔭 I am currently working on an Ecommerce_App.<br/>
+- 🌱 I am currently looking to work with a company<br/>
+- 💬 Ask me about Flutter,Firebase, APIs.<br/>
+- 📫 How to reach me : <a href="https://wa.me/923040247308">WhatsApp</a>
+
 <div align="center">
 <p align="center">Let's connect!</p>
 
@@ -67,15 +76,6 @@ I have experience collaborating with cross-functional teams and communicating co
 </a>
 </div>
 <br>
-
-###  Hybrid Platform Developer & Motivational Video Creator
-
-<img align="right" alt="GIF" src="code.gif" width="380" height="230" />
-
-- 🔭 I am currently working on an Ecommerce_App.<br/>
-- 🌱 I am currently looking to work with a company<br/>
-- 💬 Ask me about Flutter,Firebase, APIs.<br/>
-- 📫 How to reach me : <a href="https://wa.me/923040247308">WhatsApp</a>
 
 
 <br>
