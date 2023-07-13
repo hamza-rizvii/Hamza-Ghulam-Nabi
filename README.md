@@ -1,19 +1,30 @@
-## I am [Hamza Ghulam Nabi!](https://www.facebook.com/hamzaghulamnabirizvi) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> Hybrid mobile app developer with 3+ years of experience in developing high-quality applications for both iOS and Android devices. With a passion for innovation and a commitment to staying up-to-date with the latest trends in the mobile app development industry, I excel at designing and developing user-friendly, feature-rich apps that meet the needs of today's mobile users.
+## I am [Hamza Ghulam Nabi!](https://www.facebook.com/hamzaghulamnabirizvi) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> 
+Hybrid mobile app developer with 3+ years of experience in developing high-quality applications for both iOS and Android devices. With a passion for innovation and a commitment to staying up-to-date with the latest trends in the mobile app development industry, I excel at designing and developing user-friendly, feature-rich apps that meet the needs of today's mobile users.
 I have experience collaborating with cross-functional teams and communicating complex technical concepts to non-technical stakeholders. I am a creative problem-solver with a keen eye for detail and a dedication to delivering quality work on time and within budget.
-
 
 ## My Expertise Areas: <br>
 ✔ Flutter, Dart
+<br>
 ✔ RESTful APIs
+<br>
 ✔ Flutter Responsive UI 
+<br>
 ✔ State Management
+<br>
 ✔ BloC
+<br>
 ✔ Provider
+<br>
 ✔ Getx
+<br>
 ✔ MVVM
+<br>
 ✔ Firebase Firestore
+<br>
 ✔ VCS (Git, Github, Gitlab)
+<br>
 ✔ Android Studio
+<br>
 ✔ Flutter Mobile, Web, Windows, Mac
 
 
