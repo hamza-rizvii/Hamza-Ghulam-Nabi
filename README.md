@@ -33,7 +33,7 @@
 - 🔭 I am currently working on an Ecommerce_App.<br/>
 - 🌱 I am currently looking to work with a company<br/>
 - 💬 Ask me about Flutter,Firebase, APIs.<br/>
-- 📫 How to reach me: WhatsApp : <a href="https://wa.me/923040247308"/>
+- 📫 How to reach me : <a href="https://wa.me/923040247308">WhatsApp</a>
 
 
 ### Languages and Tools:
