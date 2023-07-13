@@ -63,8 +63,12 @@ I have experience collaborating with cross-functional teams and communicating co
 
 ## 📝 My GitHub Stats
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&show_icons=true&theme=dark)]
+<br>
+<br>
+<br>
 
-<p align="center">Let's connect!</p>
+
+### Let's connect!
 <a href="https://www.linkedin.com/in/hamza-ghulam-nabi-0078a820b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
