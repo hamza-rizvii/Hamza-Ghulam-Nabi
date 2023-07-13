@@ -53,6 +53,14 @@ I have experience collaborating with cross-functional teams and communicating co
 - 💬 Ask me about Flutter,Firebase, APIs.<br/>
 - 📫 How to reach me : <a href="https://wa.me/923040247308">WhatsApp</a>
 
+<br>
+<summary>📝 My GitHub Stats</summary>
+
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&show_icons=true&theme=dark)]
+
+<br>
+
+
 <div align="center">
 <p align="center">Let's connect!</p>
 
@@ -76,15 +84,10 @@ I have experience collaborating with cross-functional teams and communicating co
 </a>
 </div>
 <br>
+</div>
 
 
-<br>
-<summary>📝 My GitHub Stats</summary>
-<br/>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&show_icons=true&theme=dark)]
-
-<br>
 Open Source Contributor from <b>Pakistan<b> 💚 
 <br/>
 
