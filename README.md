@@ -60,7 +60,8 @@
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&show_icons=true&theme=dark)]
 
-
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&show_icons=true&theme=dark#gh-dark-mode-only)]
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&show_icons=true&theme=default#gh-light-mode-only)]
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 
